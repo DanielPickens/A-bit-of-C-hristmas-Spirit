@@ -6,7 +6,7 @@ namespace HelloWorld
   {
     static void Main(string[] args)
    {
-      Console.WriteLine(" Merry Christmas, and too all a good night!");
+      Console.WriteLine(" Merry Christmas to all, and to all a good night!");
    }
   }
  }
